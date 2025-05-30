@@ -6,6 +6,6 @@ let mensagens = [
   "Claro, qual o problema?",
   "Erro ao acessar conta"
 ];
-let mensagensremovida = mensagens.shift();
+let mensagemRemovida = mensagens.shift();
 console.log(`Nova lista das mensagens: ${mensagens}.`);
-console.log(`Mensagem removida: ${mensagensremovida}.`);
+console.log(`Mensagem removida: ${mensagemRemovida}.`);
