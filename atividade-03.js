@@ -1,4 +1,4 @@
-//3 – Último produto com defeito
+// 3 – Último produto com defeito
 let producao = [
   "mousepad",
   "placa de vídeo",
