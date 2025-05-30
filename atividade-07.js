@@ -5,6 +5,6 @@ let filaAtendimento = [
   "cliente 006",
   "cliente 007"
 ];
-filaAtendimento.unshift("cliente Vip 001");
-filaAtendimento.unshift("cliente Vip 002");
+filaAtendimento.unshift("cliente VIP 001");
+filaAtendimento.unshift("cliente VIP 002");
 console.log(`Fila de atendimento: ${filaAtendimento}.`);
