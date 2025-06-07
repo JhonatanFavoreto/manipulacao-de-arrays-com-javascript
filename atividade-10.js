@@ -1,4 +1,4 @@
-//10 – Verificação de produto em estoque
+// 10 – Verificação de produto em estoque
 let estoque = [
   "mesa para PC",
   "cadeira gamer",
