@@ -1,4 +1,4 @@
-// 12.Tags para URL
+// 12 - Tags para URL
 let palavrasChave = [
   "desenvolvimento",
   "frontend",
