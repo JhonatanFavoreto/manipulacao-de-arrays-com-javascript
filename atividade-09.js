@@ -6,7 +6,6 @@ let presenca = [
   "Bruno Ribeiro",
   "Fernanda Sales"
 ];
-
 if (presenca.includes("Amanda Souza")) {
   console.log("Amanda Souza compareceu à reunião.");
 } else {
