@@ -1,5 +1,4 @@
-/ 9 – Conferência de presença
-
+// 9 – Conferência de presença
 let presenca = [
   "João Lima",
   "Carla Nunes",
